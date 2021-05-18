@@ -1,4 +1,4 @@
-Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://my.fuyuumi.ga/) which is probably better than MEE6, Tickets and Dyno, idk. 
+Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://fuyuumi.ga/).
 
 You can talk to me at [discord.gg/DpxkY3x](https://discord.gg/dHkC4wTaTX).
 
