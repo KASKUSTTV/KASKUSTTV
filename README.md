@@ -1,5 +1,5 @@
 <!-- Links -->
-[kaskus]: https://discord.bio/p/andre601
+[kaskus]: https://discord.bio/p/kaskusttv
 [Achan]: https://fuyuumi.ga
 [discord]: https://kaskus.cf
 [website]: https://kaskus.cf
@@ -49,4 +49,3 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 - [Website]
 - [GitHub Projects page][github]
 - [Patreon]
-- [Ko-fi]
