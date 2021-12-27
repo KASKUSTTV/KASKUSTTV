@@ -40,7 +40,7 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
       <tr>
         <td class="tg-0lax">Ai Fuyuumi (DISCONTINUED)<br></td>
         <td class="tg-0lax">https://github.com/KASKUSTTV/fuyuumi</td>
-        <td class="tg-0lax"> [Discontinued]A anime bot for discord that also has some moderation features.</td>
+        <td class="tg-0lax">A anime bot for discord that also has some moderation features.</td>
       </tr>
     </tbody>
     </table>
