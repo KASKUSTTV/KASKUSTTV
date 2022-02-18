@@ -8,9 +8,9 @@
 
 ## 👋 Hello there!
 My name is Paul Andrew but most people just call me Paul.  
-On the internet am I known as either KASKUS or KASKUSTTV. My tag on Discord is [KASKUS#1550][kaskus].
+On the internet am I known as either KASKUS or KASKU. My tag on Discord is [KASKUS#1550][kaskus].
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Javascript and HTML. My most popular/well known project so far is [Ai Fuyuumi][Achan], a Discord Bot that reached over 70 Servers [Discontinued].
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Javascript and HTML. Im currently working on [Ai Fuyuumi][Achan]
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
@@ -38,9 +38,9 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
     </thead>
     <tbody>
       <tr>
-        <td class="tg-0lax">Ai Fuyuumi (DISCONTINUED)<br></td>
-        <td class="tg-0lax">https://github.com/KASKUSTTV/fuyuumi</td>
-        <td class="tg-0lax">A anime bot for discord that also has some moderation features.</td>
+        <td class="tg-0lax">Marin<br></td>
+        <td class="tg-0lax">https://github.com/KASKUSTTV/Marin</td>
+        <td class="tg-0lax">A anime bot for discord that has a ton of features to help you managing your servers.</td>
       </tr>
     </tbody>
     </table>
