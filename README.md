@@ -1,16 +1,15 @@
 <!-- Links -->
-[kaskus]: https://discord.bio/p/kaskusttv
-[Achan]: https://fuyuumi.ga
-[discord]: https://kaskus.cf
+[kaskus]: https://discord.bio/p/
+[discord]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [website]: https://kaskus.cf
-[github]: https://github.com/KASKUSTTV
+[github]: https://github.com/NotKaskus
 [patreon]: https://patreon.com/KASKUSTTV
 
 ## 👋 Hello there!
 My name is Paul Andrew but most people just call me Paul.  
 On the internet am I known as either KASKUS or KASKU. My tag on Discord is [KASKUS#1550][kaskus].
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Javascript and HTML. Im currently working on [Ai Fuyuumi][Achan]
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Javascript and HTML. Im currently working on [Marin]
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
@@ -19,7 +18,7 @@ Below this Readme can you find a list of Projects that I believe are my most pop
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
 ## 📊 Statistics
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=NotKaskus&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKaskus&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=NotKaskus&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"> <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKaskus&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 <h4> <i> Current Projects </i> </h4>
     <hr>
@@ -39,7 +38,7 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
     <tbody>
       <tr>
         <td class="tg-0lax">Marin<br></td>
-        <td class="tg-0lax">https://github.com/KASKUSTTV/Marin</td>
+        <td class="tg-0lax">https://github.com/NotKaskus/Marin</td>
         <td class="tg-0lax">A anime bot for discord that has a ton of features to help you managing your servers.</td>
       </tr>
     </tbody>
