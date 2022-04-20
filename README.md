@@ -6,7 +6,7 @@
 [patreon]: https://patreon.com/KASKUSTTV
 
 <h1 align="center">Hi 👋, I'm Paul Andrew</h1>
-<h3 align="center">Student at UNC, Naga🌟.</h3>
+<h3 align="center">Student at <a href="https://unc.edu.ph/">UNC</a>, <a href="https://www.google.com/search?q=naga+city">Naga</a>🌟.</h3>
 
 <br>
 
