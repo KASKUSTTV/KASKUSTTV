@@ -38,7 +38,7 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotKaskus&show_icons=true&bg_color=ffffff00&title_color=3498db&text_color=718096&count_private=true" alt="Darker-Ink" height="200"/>
     
 <h2> Stuff I worked on last week</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NotKaskus&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NotKaskus&compact=true"/>
 <br>
 
 ## Languages and Tools:
