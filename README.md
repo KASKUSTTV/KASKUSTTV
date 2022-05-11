@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on [Marin](https://github.com/NotKaskus/Marin-Rewrite)
 - 🌱 I’m currently learning **C++ and C**
 - 💬 Ask me about **express, node and discord.js**
-- 📫 How to reach me **kaskus45@proton.me*
+- 📫 How to reach me **kaskus45@proton.me**
 - ⚡ Fun fact **I think im funny**
 
 ## About me
