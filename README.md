@@ -1,5 +1,7 @@
 <h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
 
+<div align="center"><img alt="NotKaskus" src="https://discord.c99.nl/widget/theme-3/655881699304931368.png"></div>
+
 <p align="center">
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/TrueKaskus"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
