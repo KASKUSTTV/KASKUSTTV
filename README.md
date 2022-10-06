@@ -14,7 +14,7 @@
 
 <p align="center">
 
-Hello! I’m Paul Andrew also known as <strong>kaskus</strong>,  im a first year senior high school student. I’m proficient in programming with JavaScript, and im currently learning C++ and Lua. Currently open to internship/project opportunities. 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/truekaskus/">LinkedIn</a> or <a href="https://twitter.com/TrueKaskus">Twitter</a>.
+Hello! I’m Paul Andrew also known as <strong>kaskus</strong>,  im a first year senior high school student. I’m proficient in programming with JavaScript, and im currently learning C++ and Lua. Currently open to internship/project opportunities. 🖤 Have some questions or need help? Message me on <a href="https://discord.com/invite/XcbMwAyUJ9/">Discord</a> or <a href="https://twitter.com/TrueKaskus">Twitter</a>.
 </p>
 
 <hr />
